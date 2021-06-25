@@ -1,0 +1,3 @@
+In Python you can do many fun things!
+In Python you can make great data analiys.
+In Python you can create your own application?
